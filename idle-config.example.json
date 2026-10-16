@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "dry_run": true,
+  "idle_minutes": 10,
+  "check_interval_seconds": 60,
+  "minecraft_query_timeout_seconds": 3,
+  "free_server_ids": [],
+  "panel_url": "https://your-pterodactyl-panel.example",
+  "client_api_key": "PUT_YOUR_OWN_CLIENT_API_KEY_HERE"
+}

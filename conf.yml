@@ -1,0 +1,15 @@
+plugin:
+    name: idlestop
+    identifier: idlestop
+    description: 'to stop it free server auto'
+    flags:
+        - hasEvents
+    version: '1.0'
+    target: v3
+    author:
+        - Rave
+    icon: 'https://github.com/mythicalltd.png'
+    requiredConfigs: {  }
+    dependencies:
+        - php=8.1
+        - php-ext=pdo
