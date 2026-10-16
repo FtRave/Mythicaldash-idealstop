@@ -1,14 +1,14 @@
 plugin:
     name: idlestop
     identifier: idlestop
-    description: 'to stop it free server auto'
+    description: 'Mythicaldash V3 remastered idealstop addon (BETA), This addon stops servers which are inactive for more than 10 min (*Only servers that are created directly from Mythical Dash to distinguish between paid and free servers).'
     flags:
         - hasEvents
     version: '1.0'
     target: v3
     author:
         - Rave
-    icon: 'https://github.com/mythicalltd.png'
+    icon: 'https://exilenode.in/wp-content/uploads/2026/10/Exilenode-dash.png'
     requiredConfigs: {  }
     dependencies:
         - php=8.1
